@@ -1,0 +1,10 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - Abuse List
+# Expires: Never
+# Total number of network filters: 1
+# -------------------------------------[INFO]---------------------------------------
+#
+# Porn Site list
+# ------------------------------------[FILTERS]-------------------------------------
+my.heloninremake.shop
+heloninremake.shop
